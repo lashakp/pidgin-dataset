@@ -1,0 +1,7 @@
+
+#### 3. `requirements.txt`
+> Add this file to specify dependencies.
+
+```text
+pandas
+datasets
