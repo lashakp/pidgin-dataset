@@ -13,4 +13,4 @@ This project cleans and analyzes a Pidgin English dataset sourced from the Huggi
 
 ```bash
 pip install -r requirements.txt
-python pidgin_cleaning.py
+pidgin_cleaning.py
